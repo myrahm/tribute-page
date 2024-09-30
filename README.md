@@ -1,2 +1,2 @@
 # tribute-page
-a tribute page completed for freeCodeCamp's responsive web design certification course
+project two of freeCodeCamp's web design course; which was to create a simple tribute page for an individual of our choosing
